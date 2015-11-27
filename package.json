@@ -1,0 +1,22 @@
+{
+  "name": "jstranformer-beautiful-json",
+  "version": "1.0.0",
+  "description": "JSON + highlight support for JSTranformer",
+  "keywords": [
+    "jstransformer"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uh-cs-iotlab/jstranformer-beautiful-json.git"
+  },
+  "author": "Julien Mineraud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uh-cs-iotlab/jstranformer-beautiful-json/issues"
+  },
+  "homepage": "https://github.com/uh-cs-iotlab/jstranformer-beautiful-json#readme"
+}
